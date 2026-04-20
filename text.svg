@@ -8,8 +8,8 @@
     }
 
     @media (prefers-color-scheme: light) {
-    rect.m { fill: #ED5DB1; }
-    text.m { fill: #4cd871; }
+    rect.m { fill: #BBE3AE; }
+    text.m { fill: #58735C; }
     }
   </style>
 
@@ -32,7 +32,7 @@
   <a href="https://aeriszhu.com" font-style="italic" target="_blank">
     <text x="585" y="185"
       class="n"
-      font-family="serif" font-size="14" fill="#8f1c5f" text-anchor="end">
+      font-family="serif" font-size="14" fill="#58735C" text-anchor="end">
       Aeris Zhu
     </text>
   </a>
